@@ -2,4 +2,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pankesitov&theme=dark&show_icons=true&locale=en&layout=compact" alt="pankesitov" /></p>
 
-<p align="left"><img src="https://i.redd.it/qzpd2wlqkboy.gif" height="180" width="100"/></p> 
+<p align="center"><img src="https://i.pinimg.com/originals/ad/d5/10/add5109605566e3c181b7ea95d5c678e.gif" height="150" width="100"/></p> 
