@@ -1,5 +1,6 @@
 
-<p align="center">src="http://wegamers.176.com/GameIM/SNS/Image/20424123521623515133581416"</p>
+<p align="center"><img src="http://wegamers.176.com/GameIM/SNS/Image/20424123521623515133581416"/></p> 
+
 <p align="left">
 <a href="https://instagram.com/https://www.instagram.com/pankesito_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/pankesito_/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/c/impancake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/c/impancake" height="30" width="40" /></a>
