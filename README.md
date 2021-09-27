@@ -1,3 +1,4 @@
 ### Hi there 👋
 
-https://camo.githubusercontent.com/06aad71de905d6224ef9e80eb22dda05419ba8c495124c93adda0727fbabb741/68747470733a2f2f7777772e776562646576656c6f706572736e6f7465732e636f6d2f77702d636f6e74656e742f75706c6f6164732f6372656174652d612d73696d706c652d686f6d652d706167652e706e67
+<p align="center"><img src="https://www.webdevelopersnotes.com/wp-content/uploads/create-a-simple-home-page.png"/></p> 
+
