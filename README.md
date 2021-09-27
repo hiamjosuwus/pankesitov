@@ -6,6 +6,7 @@
 <a href="https://www.youtube.com/c/https://www.youtube.com/c/impancake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="impancake" height="30" width="40" /></a>
 
 </p>
+<p align="center">
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pankesitov&theme=dark&show_icons=true&locale=en&layout=compact&" alt="pankesitov" />
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=pankesitov&theme=dark&show_icons=true&locale=en" alt="pankesitov" 
